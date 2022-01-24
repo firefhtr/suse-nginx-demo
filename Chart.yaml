@@ -1,11 +1,12 @@
 apiVersion: v2
-name: suse-demo
+name: suse-nginx-demo
 description: A Helm chart for SUSE-Rancher NGINX demo 
 
 type: application
 
-version: 0.1.1
+version: 0.1.2
 
 # It is recommended to use it with quotes.
 appVersion: "1.16.0"
+
 icon: https://firefhtr.github.io/suse-nginx-demo/SUSE_Chameleon.png
